@@ -14,4 +14,4 @@
 
 ### I am Manuka Maduranga
 - An ML & Open Source enthusiast.
-- A Software Engineer at @WSO2
+- A Software Engineer at [@WSO2](https://github.com/wso2)
