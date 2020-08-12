@@ -10,8 +10,4 @@
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-### I am Manuka Maduranga
-- An ML & Open Source enthusiast.
-- A Software Engineer at [@WSO2](https://github.com/wso2)
+<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
